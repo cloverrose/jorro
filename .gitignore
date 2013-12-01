@@ -1,0 +1,71 @@
+### library ###
+antlr-4.0-complete.jar
+jackson-core-2.2.3.jar
+jackson-databind-2.2.3.jar
+jackson-annotations-2.2.3.jar
+
+
+### dot file and converted pdf file ###
+*.dot
+*.pdf
+
+
+### ANTLR ###
+*.tokens
+TSLexer.java
+TSParser.java
+TSBaseListener.java
+TSListener.java
+
+
+# Created by http://gitignore.io
+
+### Java ###
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+### Python ###
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+

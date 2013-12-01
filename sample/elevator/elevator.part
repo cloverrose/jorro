@@ -1,0 +1,2 @@
+.inputs lift_gobuttons_1__push lift_gobuttons_2__push lift_gobuttons_3__push callbuttons_1__push callbuttons_2__push callbuttons_3__push
+.outputs lift_down lift_up lift_where_1_ lift_where_2_ lift_where_3_ lift_gobuttons_1__on lift_gobuttons_2__on lift_gobuttons_3__on callbuttons_1__on callbuttons_2__on callbuttons_3__on
