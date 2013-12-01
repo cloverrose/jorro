@@ -32,7 +32,7 @@ jorro use [Graphviz](http://www.graphviz.org/) to visualize transition system.
 
 2. Then
 ```
-git clone http://bitbucket.org/cloverrose/jorro.git
+git clone https://github.com/cloverrose/jorro.git
 cd jorro
 ./setup.sh
 ```
